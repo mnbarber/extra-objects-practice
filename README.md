@@ -17,6 +17,7 @@
 1. Create a new repository
 2. Create a JS file called `the_avengers.js` 
 3. Copy the prompts below into your file and complete them
+4. Try not to look at my solutions unless you are absolutely stuck!!
 
 ---
 
